@@ -8,3 +8,4 @@ python vae.py --input_dir data --mode 0
 # mode 1 --- conv
 ```
 Little data is provided for testing purpose.
+Training for convolutional VAE appears to be difficult. To be improved.
